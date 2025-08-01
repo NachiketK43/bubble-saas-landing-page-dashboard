@@ -44,5 +44,32 @@ On the Landing page, click on "Dashboard" option on the header to navigate to th
 ---
 ## Screenschots
 
+### Coreloop Dashboard
+![Coreloop Dashboard](screenshots/Coreloop%20Dashboard.png)
+
+### Coreloop Dashboard (Bubble Editor)
+![Coreloop Dashboard (Bubble Editor)](screenshots/Coreloop%20Dashboard%20(Bubble%20Editor).png)
+
+### Coreloop Landing Page
+![Coreloop Landing Page](screenshots/Coreloop%20Landing%20Page.png)
+
+### Coreloop Landing Page (Bubble Editor)
+![Coreloop Landing Page (Bubble Editor)](screenshots/Coreloop%20Landing%20Page%20(Bubble%20Editor).png)
+
+---
+
+## Notes
+This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
+
+---
+
+## Creator
+
+**Nachiket Karhade**  
+No-Code Builder| Bubble Developer
+<br>
+🔗 [GitHub](https://github.com/NachiketK43) 
+<br>
 
 
+---
