@@ -16,7 +16,7 @@ This app is a visual and functional showcase of a clean, conversion-optimized la
 🔗 [Click to view demo app](https://surface-app-86650.bubbleapps.io/version-test)
 _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
-**On the Dashboard page, click on "Landing Page" option on the side bar to navigate to the Landing Page**
+**On the Dashboard page, click on "Landing Page" option on the side bar to navigate to the Landing Page**<br>
 **On the Landing page, click on "Dashboard" option on the header to navigate to the Dashboard**
 
 ⚠️ Data may reset periodically.
