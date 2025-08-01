@@ -5,7 +5,7 @@ This app is a visual and functional showcase of a clean, conversion-optimized la
 
 - Hero section with call-to-action
 - Modern UI layout for SaaS brand positioning
-- Navigation with login
+- Navigation bar
 - Fully designed analytics dashboard
 - Transactional data display
 - Reusable sidebar and navigation elements
