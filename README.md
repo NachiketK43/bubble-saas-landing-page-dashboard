@@ -1,4 +1,4 @@
-# bubble-saas-landing-page-dashboard (Coreloop)
+# Coreloop (bubble-saas-landing-page-dashboard)
 This app is a visual and functional showcase of a clean, conversion-optimized landing page for a SaaS product paired with a modern internal admin dashboard
 
 **Feature List**
